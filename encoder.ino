@@ -17,8 +17,8 @@ int p,m;
 
 void setup() {
   Serial.begin(9600);
-  pinMode(in1, OUTPUT);
-  pinMode(in2, OUTPUT);
+  pinMode(in1, OUTPUT);  //entrada 1
+  pinMode(in2, OUTPUT);  //entrada 2
   pinMode(ena, OUTPUT);
   pinMode(potenciometro, INPUT);
   pinMode(encoder_pin, INPUT);  //Definir el pin del encoder como entrada
