@@ -12,3 +12,4 @@ Nota: el programa presente es funcional.
       Posibles soluciones: 
                             Ir porvando con condensadores entre el pin D0 y tierra
                             
+buscar soluciones
